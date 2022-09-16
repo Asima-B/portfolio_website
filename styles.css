@@ -1,0 +1,26 @@
+body{
+    background-color:aquamarine;
+}
+
+.title{
+    font-size: 35px;
+    font-family:  'Montserrat', sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+a:link{
+    color: darkslategray;
+}
+
+.text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+}
+
+.column{
+    column-count: 2;
+    column-rule: 1px solid #ccc;
+    column-gap: 50px;
+    column-width: 300px;
+}
